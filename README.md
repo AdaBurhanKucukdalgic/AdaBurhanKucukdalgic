@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at university **İstinye University**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **adaburhankucukdalgic@gmail.com**
 
